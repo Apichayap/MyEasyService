@@ -25,6 +25,7 @@
         android:src="@drawable/humen" />
     <!--Back Botton-->
     <Button
+        android:id="@+id/btnBack"
         android:textColor="@color/colorPrimaryDark"
         android:background="@color/colorPrimary"
         android:text="Back"
