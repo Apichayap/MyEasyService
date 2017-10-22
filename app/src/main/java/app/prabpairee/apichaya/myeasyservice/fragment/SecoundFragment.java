@@ -34,7 +34,6 @@ public class SecoundFragment extends Fragment{
                 getActivity().getSupportFragmentManager().popBackStack();   //สลายหน้ากาก
 
 
-
             }
         });
     }
