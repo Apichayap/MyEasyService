@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">My Easy Service</string>
     <string name="name">อภิชญา</string>
+
+    <string name="open">Open Drawer</string>
+    <string name="closer">Close Drawer</string>
+
+
+
 </resources>
