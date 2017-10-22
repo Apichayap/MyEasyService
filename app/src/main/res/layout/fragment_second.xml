@@ -19,6 +19,7 @@
 
     <!--Image-->
     <ImageView
+        android:id="@+id/imvHumen"
         android:layout_gravity="center_horizontal"
         android:layout_width="@dimen/icon2"
         android:layout_height="@dimen/icon2"
